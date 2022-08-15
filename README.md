@@ -1,6 +1,6 @@
 "Instructions" 
 
-Important files in this repo
+Important file in this repo
 1. The app file used to deploy the code on heroku.
 
 To interact with the API, use the documentation in the doc folder
